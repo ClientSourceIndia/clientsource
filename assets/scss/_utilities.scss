@@ -1,0 +1,55 @@
+.noscript {
+    width: 80%;
+    padding: 2rem; 
+    margin: 0 auto; 
+    max-width: 1200px;
+    border: 1px solid hsl(0, 100%, 50%); 
+    background-color: hsl(0, 100%, 93%);
+
+    h2 {
+        margin-bottom: 1rem;
+    }
+
+    p {
+        margin-bottom: 0.75rem;
+    }
+
+    ul {
+        margin-block: 2rem;
+        margin-inline: 2.5rem;
+
+        li {
+            margin-bottom: 0.75rem;
+        }
+    }
+}
+
+.visually-hidden {
+    width: 1px;
+    margin: -1px;
+    overflow: hidden;
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1920px;
+}
+
+.btn {
+    border: none;
+    cursor: pointer;
+    border-radius: 0;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: $paragraph-font;
+}
+
+.cs-btn {
+    @extend .btn;
+    padding: 2rem;
+    color: $white;
+    background-color: $primary;
+}

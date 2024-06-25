@@ -1,0 +1,27 @@
+footer {
+    background-color: $secondary;
+
+    .container {
+        padding: 2rem;
+        display: flex;
+        justify-content: space-between;
+        
+        ul {
+            gap: 1.5rem;
+            display: flex;
+            list-style-type: none;
+    
+            li {
+                a {
+                    color: $white;
+                    text-decoration: none;
+
+                    i {
+                        color: $white;
+                        font-size: 1.75rem;
+                    }
+                }
+            }
+        }
+    }
+}

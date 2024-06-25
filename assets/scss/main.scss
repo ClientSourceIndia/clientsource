@@ -1,0 +1,64 @@
+@import "resets";
+@import "fonts";
+@import "variables";
+@import "defaults";
+@import "utilities";
+@import "header";
+@import "footer";
+@import "responsive";
+
+body {
+    .modal {
+        top: 50%;
+        width: 60%;
+        border: none;
+        margin: 0 auto;
+        padding: 2.5rem;
+        max-width: 600px;
+        border-radius: 0;
+        position: relative;
+        transform: translateY(-50%);
+
+        &::backdrop {
+            opacity: .4;
+            backdrop-filter: blur(1rem);
+            background-color: hsl(0, 0%, 0%, 1);
+        }
+
+        .close-modal {
+            @extend .btn;
+            top: 1rem;
+            right: 1rem;
+            font-size: 1.75rem;
+            position: absolute;
+            background-color: transparent;
+        }
+
+        h2, 
+        p {
+            margin-block: 1rem;
+        }
+
+        form {
+            display: flex;
+
+            input {
+                border: 0;
+                padding: 1rem;
+                line-height: 1;
+                caret-color: $secondary;
+                background-color: hsl(0, 0%, 96%);
+                
+                &:focus {
+                    outline: none;
+                }
+            }
+
+            .submit {
+                @extend .cs-btn;
+                padding: 1rem;
+                line-height: 1;
+            }
+        }
+    }
+}

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="87.771149mm"
+   height="86.428902mm"
+   viewBox="0 0 87.771149 86.428902"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0469406"
+     inkscape:cx="448.92708"
+     inkscape:cy="647.12361"
+     inkscape:window-width="958"
+     inkscape:window-height="993"
+     inkscape:window-x="953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <rect
+         style="display:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3"
+         width="52.060417"
+         height="38.413509"
+         x="146.57788"
+         y="139.50169"
+         clip-path="none"
+         d="M 146.57788,139.50169 H 198.6383 V 177.9152 H 146.57788 Z" />
+      <path
+         id="lpe_path-effect3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.99999;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="m 101.96714,124.16736 h 74.3893 v 69.58761 h -74.3893 z m 44.61074,15.33433 v 38.41351 h 52.06042 v -38.41351 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-51.866933,-111.77723)">
+    <g
+       id="g3"
+       transform="translate(-9.1512119,10.172371)"
+       inkscape:export-filename="Outputs\Logo.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:none;fill-opacity:0.5;fill-rule:evenodd;stroke:#1d2f3d;stroke-width:4.73318;stroke-dasharray:none;stroke-opacity:1"
+         id="path1"
+         cx="105"
+         cy="148.5"
+         rx="38.843212"
+         ry="37.167175" />
+      <path
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#267cac;stroke-width:5.34086;stroke-dasharray:none;stroke-opacity:1"
+         id="path2"
+         clip-path="url(#clipPath3)"
+         inkscape:path-effect="#path-effect3"
+         sodipodi:type="arc"
+         sodipodi:cx="139.16179"
+         sodipodi:cy="158.96117"
+         sodipodi:rx="29.524221"
+         sodipodi:ry="27.123377"
+         d="m 168.68601,158.96117 a 29.524221,27.123377 0 0 1 -29.52422,27.12337 29.524221,27.123377 0 0 1 -29.52422,-27.12337 29.524221,27.123377 0 0 1 29.52422,-27.12338 29.524221,27.123377 0 0 1 29.52422,27.12338 z"
+         transform="translate(-34.161789,-10.461166)" />
+      <path
+         style="font-size:36.6251px;line-height:0;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';fill:#1d2f3d;fill-rule:evenodd;stroke-width:4.80644"
+         d="m 96.68431,162.19865 c -1.74065,0 -3.25484,-0.0954 -4.721271,-0.67957 -1.454513,-0.5842 -2.712308,-1.45451 -3.773387,-2.61098 -1.061079,-1.15645 -1.883713,-2.59904 -2.467902,-4.32776 -0.584189,-1.72874 -0.876284,-3.71379 -0.876284,-5.95515 0,-2.22947 0.280172,-4.1728 0.840517,-5.82999 0.572267,-1.65719 1.400863,-3.09978 2.485786,-4.32777 1.061079,-1.19222 2.318874,-2.09831 3.773386,-2.71827 1.454515,-0.63187 3.081895,-0.94781 4.882155,-0.94781 0.1195,0.0154 7.68668,0 8.62842,0 l -0.40208,6.52742 c -0.66836,-0.6968 -1.7202,-2.02207 -5.49019,-3.14747 -0.79879,-0.23845 -1.72276,-0.35767 -2.77192,-0.35767 -1.13261,0 -2.20561,0.23248 -3.219,0.69745 -1.01339,0.46497 -1.901596,1.1505 -2.664619,2.05659 -0.751101,0.90609 -1.33529,2.04466 -1.752568,3.41572 -0.417278,1.37105 -0.625917,2.91498 -0.625917,4.63179 0,1.8241 0.220561,3.39783 0.661684,4.7212 0.441123,1.31145 1.043195,2.42021 1.806218,3.3263 0.739179,0.88225 1.609503,1.54989 2.610972,2.00294 1.00147,0.44112 2.06254,0.66168 3.18323,0.66168 1.02531,0 1.97313,-0.12518 2.84346,-0.37555 1.45818,-0.41948 3.95165,-1.59477 5.41865,-3.07594 l 0.13403,6.31283 c -1.06806,0 -5.81739,-0.004 -5.83882,0 z m 19.05467,0 h -8.83431 l 0.13403,-6.31283 c 2.69841,1.68325 5.21819,3.38054 8.49459,3.45149 1.95525,0 3.4336,-0.40536 4.43507,-1.21607 1.00147,-0.82263 1.5022,-1.90159 1.5022,-3.23688 0,-1.06108 -0.26229,-1.92544 -0.78686,-2.5931 -0.52458,-0.66764 -1.35914,-1.16242 -2.50367,-1.48431 -0.82263,-0.23844 -1.57373,-0.43516 -2.2533,-0.59015 -0.67957,-0.15499 -1.53201,-0.36362 -2.55732,-0.62591 -0.91801,-0.23845 -1.74065,-0.54247 -2.4679,-0.91205 -0.72726,-0.36959 -1.37106,-0.85245 -1.93141,-1.44856 -0.54842,-0.58419 -0.97762,-1.26971 -1.2876,-2.05658 -0.29805,-0.79879 -0.44708,-1.71681 -0.44708,-2.75404 0,-2.15792 0.84052,-3.96414 2.52155,-5.41865 1.68103,-1.46643 3.82704,-2.19965 6.43801,-2.19965 h 4.39917 4.56038 l -1.03723,5.95515 c -0.53739,-0.46772 -0.75825,-0.82524 -3.52302,-2.02082 -1.32337,-0.5842 -2.71231,-0.87628 -4.16682,-0.87628 -1.64527,0 -2.9746,0.38747 -3.98799,1.16242 -1.01339,0.76302 -1.52008,1.77045 -1.52008,3.02228 0,1.13261 0.29806,2.03274 0.89417,2.70039 0.59611,0.66764 1.46047,1.15645 2.59308,1.46643 0.7511,0.20268 1.66911,0.43516 2.75404,0.69745 1.08492,0.25037 1.98505,0.48285 2.70038,0.69745 1.83603,0.56035 3.17728,1.40683 4.02376,2.53944 0.84647,1.13261 1.26971,2.52751 1.26971,4.1847 0,1.03723 -0.2146,2.06255 -0.6438,3.07594 -0.41727,1.01339 -1.00742,1.87179 -1.77045,2.5752 -0.8584,0.77495 -1.83006,1.37106 -2.91498,1.78834 -1.07301,0.41727 -2.4649,0.4292 -4.08632,0.4292 z"
+         id="text4"
+         aria-label="CS"
+         sodipodi:nodetypes="scssscccsccssscsscccsscccssccscsscscsccscsccccscsscccsscccs" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.87917px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#1d2f3d;fill-opacity:1;fill-rule:evenodd;stroke-width:0.499999"
+         id="text1"><textPath
+           xlink:href="#ellipse3"
+           startOffset="50%"
+           id="textPath3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87917px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1d2f3d;fill-opacity:1;stroke-width:0.5">Transforming Ideas into Reality</textPath></text>
+      <ellipse
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.23622;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse3"
+         cx="147.11029"
+         cy="-104.90372"
+         rx="40.260693"
+         ry="43.885574"
+         transform="rotate(90)" />
+    </g>
+  </g>
+</svg>
