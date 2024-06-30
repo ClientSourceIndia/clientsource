@@ -1,0 +1,6 @@
+$font-xs: clamp(1rem, calc(0.9855rem + 0.1163vw), 1.125rem);
+$font-sm: clamp(1.126rem, calc(1.0825rem + 0.3479vw), 1.5rem);
+$font-md: clamp(2rem, calc(1.8837rem + 0.9302vw), 3rem);
+$font-lg: clamp(2.5, calc(2.2674rem + 1.8604vw), 4.5rem);
+$font-xl: clamp(2.75rem, calc(2.24884rem + 2.0930vw), 5rem);
+$font-xxl: clamp(3rem, calc(2.6512rem + 2.7907vw), 6rem);

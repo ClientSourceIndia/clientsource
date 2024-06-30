@@ -53,3 +53,12 @@
     color: $white;
     background-color: $primary;
 }
+
+.row {
+    width: 100%;
+    display: flex;
+}
+
+.equ-column {
+    width: 50%;
+}
